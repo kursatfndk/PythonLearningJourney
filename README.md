@@ -3,4 +3,4 @@ Welcome to the PythonLearningJourney repository! This repository is dedicated to
 ## Daily Progress
 ### Day 1
 - [Notes](Day1/README.md)
-- [Exercises](Day1/day1_exercises.py)
+- [Exercises](Day1/main.py)
