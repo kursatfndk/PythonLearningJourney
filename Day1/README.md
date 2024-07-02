@@ -10,9 +10,6 @@
 ### PEP8 Python Standards:
 - **Boolean Values:** Written as True/False.
 
-### Conditional Statements and Function Usage:
-- An example to print "porn" if the age is over 18, otherwise print "apple," using a function named `sex`.
-
 ### Working on Sample Code:
 - I wrote sample code containing user information. It includes username, password, age, and gender checks.
 - I added an example using the `get_gender` function to print the gender.
