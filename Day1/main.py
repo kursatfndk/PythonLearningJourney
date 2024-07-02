@@ -4,7 +4,6 @@
 
 #PEP8 Python Standarları ***
 #Boelan değerler True/False
-# 18 yaşının üzerindeyse porn değilse elma yazdır. Bunu sex isimli fonksiyon ile yapalım.
 
 username = "kursatemrefndk"
 password = "123456"
