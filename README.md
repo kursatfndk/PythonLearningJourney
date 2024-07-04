@@ -7,4 +7,4 @@ Welcome to the PythonLearningJourney repository! This repository is dedicated to
 
 ### Day 1
 - [Notes](Day2/README.md)
-- [Exercises](Day2/main.py)
+- [Exercises](Day2/main (1).py)
